@@ -1,3 +1,8 @@
 langchain
 langchain-google-genai
+langchain_community
+langchain-text-splitters
+faiss-cpu
+pymupdf
 google-generativeai
+databricks-langchain
